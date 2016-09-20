@@ -21,6 +21,18 @@ public class Hello {
 		System.out.println("Hello~~~~~~~~~~~~~~~~~><");
 
 
+
+		int age = 10;
+		if (age < 19) {
+		  System.out.println("미성년");
+		} else {
+		  System.out.println("성년");
+		}
+		
+		System.out.println("test..ok");
+		
+    int b = 2, a = 30;
+		System.out.println("Hello~~~~~~~~~~~~~~~~~><");
 		System.out.println("Hello!!!!!!!!!!!!!!!!!11^^*****");
 	}
 
