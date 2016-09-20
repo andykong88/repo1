@@ -10,7 +10,9 @@ public class Hello {
 		  System.out.println("성년");
 		}
 		
-    int a;
+		System.out.println("test..ok");
+		
+    int b = 2, a = 30;
 		System.out.println("Hello~~~~~~~~~~~~~~~~~><");
 		System.out.println("Hello!!!!!!!!!!!!!!!!!11^^*****");
 	}
