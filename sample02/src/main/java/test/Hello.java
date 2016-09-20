@@ -12,6 +12,7 @@ public class Hello {
 		
     int a;
 		System.out.println("Hello~~~~~~~~~~~~~~~~~><");
+		System.out.println("Hello!!!!!!!!!!!!!!!!!11^^*****");
 	}
 
 }
