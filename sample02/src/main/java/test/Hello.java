@@ -9,7 +9,9 @@ public class Hello {
 		} else {
 		  System.out.println("성년");
 		}
-
+		
+    int a;
+		System.out.println("Hello~~~~~~~~~~~~~~~~~><");
 	}
 
 }
